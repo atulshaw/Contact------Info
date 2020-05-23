@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\OPTLPTP-288\Desktop\Bi\we</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ContactInfo.Web.dll">
+      <publishTime>05/23/2020 11:33:47</publishTime>
+    </File>
+    <File Include="bin/ContactInfo.Web.pdb">
+      <publishTime>05/23/2020 11:33:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>05/21/2020 07:33:40</publishTime>
+    </File>
+    <File Include="css/custContactInfo.css">
+      <publishTime>05/22/2020 10:40:39</publishTime>
+    </File>
+    <File Include="css/CustomCSS.css">
+      <publishTime>05/23/2020 11:15:20</publishTime>
+    </File>
+    <File Include="css/font-awesome.css">
+      <publishTime>05/20/2020 13:11:03</publishTime>
+    </File>
+    <File Include="css/font-awesome.min.css">
+      <publishTime>05/21/2020 07:32:32</publishTime>
+    </File>
+    <File Include="customJS/CustomContactInfo.js">
+      <publishTime>05/23/2020 11:08:14</publishTime>
+    </File>
+    <File Include="libs/bootstrap/bootstrap.min.js">
+      <publishTime>05/21/2020 07:34:31</publishTime>
+    </File>
+    <File Include="libs/bootstrap/popper.min.js">
+      <publishTime>05/21/2020 07:35:01</publishTime>
+    </File>
+    <File Include="libs/bootstrap/sweetalert.min.js">
+      <publishTime>05/22/2020 17:48:05</publishTime>
+    </File>
+    <File Include="libs/Datatable/dataTables.bootstrap4.min.css">
+      <publishTime>05/23/2020 10:39:28</publishTime>
+    </File>
+    <File Include="libs/Datatable/dataTables.bootstrap4.min.js">
+      <publishTime>05/23/2020 10:39:44</publishTime>
+    </File>
+    <File Include="libs/Datatable/jquery.dataTables.min.js">
+      <publishTime>05/23/2020 10:39:38</publishTime>
+    </File>
+    <File Include="libs/jquery/jquery-1.10.2.js">
+      <publishTime>05/20/2020 10:56:31</publishTime>
+    </File>
+    <File Include="libs/jquery/jquery_1.x.js">
+      <publishTime>05/20/2020 10:56:31</publishTime>
+    </File>
+    <File Include="libs/jquery/jquery_1.x.min.js">
+      <publishTime>05/20/2020 10:56:31</publishTime>
+    </File>
+    <File Include="pages/ContactInfo.html">
+      <publishTime>05/23/2020 11:19:20</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>05/23/2020 11:33:47</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
