@@ -1,4 +1,4 @@
-# Contact-Info
+# ContactInfo
 
 This project is created for maintaining the contact information.I have Created five projects in a solution.Four projects used to implement DIP with generic repository pattern and Structure map. These are:
 
